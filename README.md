@@ -15,9 +15,9 @@ cd CURD-operations-Springboot
   spring.datasource.url=jdbc:mysql://localhost:3306/productdbcreateDatabaseIfNotExist=true
   spring.datasource.username=root
    | spring.datasource.password=Password
-4. Build the Project
+# Build the Project
   mvn clean package
-4.1. Run the Application
+# Run the Application
   java -jar target/generic-crud-api-0.0.1-SNAPSHOT.jar
 # Default Credentials
 Username -> admin
