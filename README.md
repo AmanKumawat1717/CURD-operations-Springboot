@@ -1,24 +1,24 @@
 # CURD-operations-Springboot
 A Spring Boot–based Generic CRUD API with integrated Swagger 3.0 documentation and basic security configuration using Spring Security.
 # Tech Stack
-Java 17+
-Spring Boot 3+
-Spring Data JPA (Hibernate)
-Spring Security (Basic Auth)
-MySQL Database
+Java 17+ |
+Spring Boot 3+ |
+Spring Data JPA (Hibernate) |
+Spring Security (Basic Auth) |
+MySQL Database |
 Swagger / OpenAPI 3
 # How to Run
-1. Clone the Repository
+## Clone the Repository
 git clone https://github.com/AmanKumawat1717/CURD-operations-Springboot.
 cd CURD-operations-Springboot
-2. Configure Database
-spring.datasource.url=jdbc:mysql://localhost:3306/productdbcreateDatabaseIfNotExist=true
-spring.datasource.username=root
-spring.datasource.password=Password
-3. Build the Project
-mvn clean package
-Run the Application
-java -jar target/generic-crud-api-0.0.1-SNAPSHOT.jar
+## Configure Database
+  spring.datasource.url=jdbc:mysql://localhost:3306/productdbcreateDatabaseIfNotExist=true
+  spring.datasource.username=root
+   | spring.datasource.password=Password
+# Build the Project
+  mvn clean package
+# Run the Application
+  java -jar target/generic-crud-api-0.0.1-SNAPSHOT.jar
 # Default Credentials
 Username -> admin
 Password  -> admin
