@@ -8,10 +8,10 @@ Spring Security (Basic Auth) |
 MySQL Database |
 Swagger / OpenAPI 3
 # How to Run
-1. Clone the Repository
+## Clone the Repository
 git clone https://github.com/AmanKumawat1717/CURD-operations-Springboot.
 cd CURD-operations-Springboot
-2. Configure Database
+## Configure Database
   spring.datasource.url=jdbc:mysql://localhost:3306/productdbcreateDatabaseIfNotExist=true
   spring.datasource.username=root
    | spring.datasource.password=Password
