@@ -1,12 +1,12 @@
 # CURD-operations-Springboot
 A Spring Boot–based Generic CRUD API with integrated Swagger 3.0 documentation and basic security configuration using Spring Security.
 # Tech Stack
-Java 17+
-Spring Boot 3+
-Spring Data JPA (Hibernate)
-Spring Security (Basic Auth)
-MySQL Database
-Swagger / OpenAPI 3
+Java 17+ |
+Spring Boot 3+ |
+Spring Data JPA (Hibernate) |
+Spring Security (Basic Auth) |
+MySQL Database |
+Swagger / OpenAPI 3 |
 # How to Run
 1. Clone the Repository
 git clone https://github.com/AmanKumawat1717/CURD-operations-Springboot.
