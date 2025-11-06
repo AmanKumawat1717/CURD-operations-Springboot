@@ -12,11 +12,9 @@ Swagger / OpenAPI 3
 git clone https://github.com/AmanKumawat1717/CURD-operations-Springboot.
 cd CURD-operations-Springboot
 2. Configure Database
-spring.datasource.url=jdbc:mysql://localhost:3306/productdbcreateDatabaseIfNotExist=true
-
-spring.datasource.username=root
-
-spring.datasource.password=Password
+  spring.datasource.url=jdbc:mysql://localhost:3306/productdbcreateDatabaseIfNotExist=true
+  spring.datasource.username=root
+  spring.datasource.password=Password
 4. Build the Project
 mvn clean package
 Run the Application
